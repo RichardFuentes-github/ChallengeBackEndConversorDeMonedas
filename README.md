@@ -48,4 +48,4 @@ Fue desarrollado a base de programación JAVA a traves de IntelliJ. Una aplicaci
 <h3>Palabras finales</h3>
 Espero que disfruté de la aplicación. Un especial agradecimiento a Alura Latam por darme la oportunidad de poder desarrollar este proyecto. Sé que quizás me falta mucho por aprender, pero espero seguir creciendo y perfeccionándome dentro de esta gran institución.
 
-<h2>Atencion: Para descargar el archivo cambiar la opción de [main] a [master]. <h2>
+<h2>Atención: Para descargar el archivo cambiar la opción de [main] a [master]. <h2>
